@@ -1,0 +1,639 @@
+{  
+  "8361":[  
+    {  
+      "transaction_id":8378,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":8379,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":8380,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"How well do flu shots work? Here’s what the science says."
+    },
+    {  
+      "transaction_id":8381,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":8382,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"How Peer Mentorship Can Change Police Departments’ Cultures"
+    },
+    {  
+      "transaction_id":8383,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"31 excellent horror movies to stream this October"
+    },
+    {  
+      "transaction_id":8384,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"The Only Times When It’s O.K. to Enter a Subway Car Before People Exit"
+    },
+    {  
+      "transaction_id":8385,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"The History of Sears Predicts Nearly Everything Amazon Is Doing"
+    },
+    {  
+      "transaction_id":8386,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"The Coming Software Apocalypse"
+    },
+    {  
+      "transaction_id":8387,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"We’re starting to see the outlines of a conservative plan to protect DREAMers"
+    }
+  ],
+  "8362":[  
+    {  
+      "transaction_id":8378,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":8379,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":8380,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"How well do flu shots work? Here’s what the science says."
+    },
+    {  
+      "transaction_id":8381,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":8382,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"How Peer Mentorship Can Change Police Departments’ Cultures"
+    },
+    {  
+      "transaction_id":8383,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"31 excellent horror movies to stream this October"
+    },
+    {  
+      "transaction_id":8384,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"The Only Times When It’s O.K. to Enter a Subway Car Before People Exit"
+    },
+    {  
+      "transaction_id":8385,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"We’re starting to see the outlines of a conservative plan to protect DREAMers"
+    },
+    {  
+      "transaction_id":8386,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"The Coming Software Apocalypse"
+    },
+    {  
+      "transaction_id":8387,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"The History of Sears Predicts Nearly Everything Amazon Is Doing"
+    }
+  ],
+  "8363":[  
+    {  
+      "transaction_id":14040,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":14041,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14042,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"We’re starting to see the outlines of a conservative plan to protect DREAMers"
+    },
+    {  
+      "transaction_id":14043,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14044,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    }
+  ],
+  "8364":[  
+    {  
+      "transaction_id":14045,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14046,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":14047,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"How Peer Mentorship Can Change Police Departments’ Cultures"
+    },
+    {  
+      "transaction_id":14048,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"How well do flu shots work? Here’s what the science says."
+    },
+    {  
+      "transaction_id":14049,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14050,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"31 excellent horror movies to stream this October"
+    },
+    {  
+      "transaction_id":14051,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"The History of Sears Predicts Nearly Everything Amazon Is Doing"
+    },
+    {  
+      "transaction_id":14052,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"We’re starting to see the outlines of a conservative plan to protect DREAMers"
+    },
+    {  
+      "transaction_id":14053,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14054,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    }
+  ],
+  "8365":[  
+    {  
+      "transaction_id":14030,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":14031,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"The History of Sears Predicts Nearly Everything Amazon Is Doing"
+    },
+    {  
+      "transaction_id":14032,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14033,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14034,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14035,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"How well do flu shots work? Here’s what the science says."
+    },
+    {  
+      "transaction_id":14036,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"31 excellent horror movies to stream this October"
+    },
+    {  
+      "transaction_id":14037,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14038,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"We’re starting to see the outlines of a conservative plan to protect DREAMers"
+    },
+    {  
+      "transaction_id":14039,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    }
+  ],
+  "8366":[  
+    {  
+      "transaction_id":14055,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14056,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":14057,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14058,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"How well do flu shots work? Here’s what the science says."
+    },
+    {  
+      "transaction_id":14059,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14060,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"31 excellent horror movies to stream this October"
+    },
+    {  
+      "transaction_id":14061,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"We’re starting to see the outlines of a conservative plan to protect DREAMers"
+    },
+    {  
+      "transaction_id":14062,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"The Coming Software Apocalypse"
+    },
+    {  
+      "transaction_id":14063,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14064,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    }
+  ],
+  "8367":[  
+    {  
+      "transaction_id":14173,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":14174,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14175,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14176,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14177,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"How Peer Mentorship Can Change Police Departments’ Cultures"
+    },
+    {  
+      "transaction_id":14178,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"The History of Sears Predicts Nearly Everything Amazon Is Doing"
+    },
+    {  
+      "transaction_id":14179,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"We’re starting to see the outlines of a conservative plan to protect DREAMers"
+    },
+    {  
+      "transaction_id":14180,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14181,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14182,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    }
+  ],
+  "8368":[  
+    {  
+      "transaction_id":14143,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14144,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14145,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14146,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14147,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14148,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"31 excellent horror movies to stream this October"
+    },
+    {  
+      "transaction_id":14149,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":14150,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14151,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14152,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"How well do flu shots work? Here’s what the science says."
+    }
+  ],
+  "8369":[  
+    {  
+      "transaction_id":14153,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14154,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14155,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14156,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":14157,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14158,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14159,
+      "event":"used",
+      "picos":10,
+      "publication":"Real News Daily",
+      "title":"How well do flu shots work? Here’s what the science says."
+    },
+    {  
+      "transaction_id":14160,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14161,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14162,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    }
+  ],
+  "8370":[  
+    {  
+      "transaction_id":14163,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"Car companies are targeting Saudi women drivers with cheesy new ads"
+    },
+    {  
+      "transaction_id":14164,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14165,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14166,
+      "event":"earned",
+      "picos":5,
+      "publication":"Global Headlines"
+    },
+    {  
+      "transaction_id":14167,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"We’re starting to see the outlines of a conservative plan to protect DREAMers"
+    },
+    {  
+      "transaction_id":14168,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"The History of Sears Predicts Nearly Everything Amazon Is Doing"
+    },
+    {  
+      "transaction_id":14169,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14170,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14171,
+      "event":"earned",
+      "picos":5,
+      "publication":"Real News Daily"
+    },
+    {  
+      "transaction_id":14172,
+      "event":"used",
+      "picos":10,
+      "publication":"Global Headlines",
+      "title":"How Peer Mentorship Can Change Police Departments’ Cultures"
+    }
+  ]
+}
