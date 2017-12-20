@@ -4,20 +4,28 @@
   <title>Pico Code Challenge</title>
   <link rel="stylesheet" href="./styles.css">
   <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+</head>
+<body>
+  <div class="app__container">
+    <h1>Pico Code Challenge</h1>
+    
+      <div class="users">
+        <h2>Users</h2>
+      </div>    
+        <div class="activity-log">
+          <h2>Activity Log</h2>
+          <button class="button filter-earned">Filter by Picos Earned</button>
+          <button class="button filter-spent">Filter by Picos Spent</button>
+          <button class="button filter-reset">Reset Filter</button>
+          <button class="button show-users">Back to Users</button>
+        </div>
+      
+    </div>
+  </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
   <script type="text/javascript" src="./index.js"></script>
   <script type="text/javascript" src="./modules/UserRequestModule.js"></script>
   <script type="text/javascript" src="./modules/FilteringModule.js"></script>
-</head>
-<body>
-  <h1>Pico Code Challenge</h1>
-  <div class="users">
-    <h1>Users</h1>
-  </div>
-  <div class="activity-log">
-    <h1>Activity Log</h1>
-    <button class="filter-earned">Filter by Picos Earned</button>
-    <button class="filter-spent">Filter by Picos Spent</button>
-  </div>
 </body>
 </html>

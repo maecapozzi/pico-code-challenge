@@ -1,6 +1,9 @@
 $(document).ready(function () {
+  'strict mode'
   UserRequestModule.init()
+  UserRequestModule.updateState()
   FilteringModule.filterPicosEarned()
   FilteringModule.filterPicosSpent()
-  ActivityModule.getActivityData()
+  FilteringModule.resetFilter()
+  FilteringModule.backToUsers()
 })

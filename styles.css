@@ -2,4 +2,21 @@ body {
   background-color: #43D9C3;
   color: #FFFFFF;
   font-family: 'Inconsolata', monospace;
+  padding: 20px;
+}
+
+.button { 
+  background-color: #ffffff;
+  border: none;
+  border-radius: none;
+  color: #43D9C3;
+  height: 25px;
+}
+
+.hidden { 
+  display: none;
+}
+
+.show { 
+  display: block;
 }

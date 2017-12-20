@@ -1,4 +1,58 @@
 var UserRequestModule = (function () {
+  var state = {
+    filterEarned: false,
+    filterUsed: false,
+    unfiltered: true
+  } || JSON.parse(Cookies.get('state'))
+
+  var initializeState = function () {
+    state = state || JSON.parse(Cookies.get('state'))
+  }
+
+  var setState = function () {
+    if (state.filterEarned) {
+      $('.used').hide()
+    } else if (state.filterSpent) {
+      $('.earned').hide()
+    }
+  }
+
+  var storeState = function (state) {
+    Cookies.set('state', state)
+  }
+
+  var updateState = function () {
+    $('.filter-earned').click(function () {
+      state = {
+        filterEarned: true,
+        filterSpent: false,
+        unfiltered: false
+      }
+      storeState(state)
+      return state
+    })
+
+    $('.filter-spent').click(function () {
+      state = {
+        filterEarned: false,
+        filterSpent: true,
+        unfiltered: false
+      }
+      storeState(state)
+      return state
+    })
+
+    $('.filter-reset').click(function () {
+      state = {
+        filterEarned: false,
+        filterSpent: false,
+        unfiltered: true
+      }
+      storeState(state)
+      return state
+    })
+  }
+
   var getUsers = function () {
     var url = './json/users.json'
 
@@ -14,7 +68,6 @@ var UserRequestModule = (function () {
 
   var getUserData = function (users) {
     return users.map(function (user) {
-      let div = createElement('div')
       let p = createElement('p')
       let address = createElement('li')
       let email = createElement('li')
@@ -25,7 +78,7 @@ var UserRequestModule = (function () {
       email.html(`${user.email}`)
       button.html('See user activity')
           .attr('id', user.id)
-          .attr('class', 'user-button')
+          .attr('class', 'button user-button')
 
       $(address).append(email)
       $(p).append(address)
@@ -34,7 +87,7 @@ var UserRequestModule = (function () {
     })
   }
 
-  getUserId = function (e) {
+  var getUserId = function (e) {
     return event.target.id
   }
 
@@ -43,6 +96,8 @@ var UserRequestModule = (function () {
     $('.user-button').click(function (e) {
       $('.clicked').remove()
       var id = getUserId()
+      $('.activity-log').show()
+      $('.users').hide()
 
       $.ajax({
         url: url
@@ -63,20 +118,20 @@ var UserRequestModule = (function () {
 
   var countSpentPicos = function (data) {
     data.map(element => {
-      element.event === 'used' ? buildLog(element, 'Used') : buildLog(element, 'Earned')
+      if (element.event === 'used') {
+        setPicos(element, 'Spent', 'used')
+      } else if (element.event === 'earned') {
+        setPicos(element, 'Earned', 'earned')
+      }
     })
   }
 
-  var buildLog = function (element, string) {
+  var setPicos = function (element, string, className) {
     let picos = element.picos
-    let p = setActivityLog()
-    setActivityLog(element, 'used')
+    let p = createElement('p').addClass('clicked').addClass(className)
     p.html(string + ' ' + picos + ' picos')
+    setState()
     return appendToLog(p)
-  }
-
-  var setActivityLog = function (element, className) {
-    return createElement('p').addClass('clicked').addClass('used')
   }
 
   var appendToLog = function (element) {
@@ -94,10 +149,13 @@ var UserRequestModule = (function () {
   }
 
   var init = function () {
+    initializeState()
     getUsers()
+    $('.activity-log').addClass('hidden')
   }
 
   return {
-    init: init
+    init: init,
+    updateState: updateState
   }
 })()

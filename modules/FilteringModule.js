@@ -13,8 +13,24 @@ var FilteringModule = (function () {
     })
   }
 
+  var resetFilter = function () {
+    $('.filter-reset').click(function () {
+      $('.used').show()
+      $('.earned').show()
+    })
+  }
+
+  var backToUsers = function (element) {
+    $('.show-users').click(function () {
+      $('.users').show()
+      $('.activity-log').hide()
+    })
+  }
+
   return {
     filterPicosSpent: filterPicosSpent,
-    filterPicosEarned: filterPicosEarned
+    filterPicosEarned: filterPicosEarned,
+    resetFilter: resetFilter,
+    backToUsers: backToUsers
   }
 })()
